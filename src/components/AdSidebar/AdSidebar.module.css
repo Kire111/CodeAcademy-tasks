@@ -1,0 +1,74 @@
+.adSidebarContainer{
+    width: 25%;
+    height: 90vh;
+    
+   
+}
+.sidebarButton{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 30px;           
+}
+.adSidebarLikes{
+    display: flex;
+    justify-content: left;
+    padding-left: 30px;
+}
+h1{
+    padding-left: 30px;
+}
+
+button{
+    border: solid black;
+    border-radius: 30px;
+    width: 200px;
+    height: 30px;
+    margin: 8px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    margin-top: 25px;
+
+}
+.adSidebarInput{
+    background-color:rgb(235, 233, 233);
+    padding: 5px;
+    color: black;
+    margin-left: 30px;
+    width: fit-content;
+}
+.sidebarFooter{
+    background-color: rgb(235, 233, 233);
+    margin-top: 240px;
+    
+     
+    
+          
+}
+ .sidebarFooterUl{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    font-size: small;
+    padding: 15px;
+    
+   
+}
+
+
+
+h5 {
+    width: 50%; 
+    text-align: center; 
+    border-bottom: 1px solid grey; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+    padding-top: 32px;
+ } 
+ 
+ h5 span { 
+     background:#fff; 
+     padding:0 10px; 
+     
+ }

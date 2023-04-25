@@ -1,0 +1,23 @@
+.sidebarContainer{
+    width: 25%;
+    height: 90vh;
+    padding-top: 70px;
+    
+}
+.sideBarItemsContainer{
+    height: 100%;
+    padding-top: 0%;
+}
+.item{
+    margin-top: 10px;
+    padding-left: 10%;
+    display: flex;
+}
+.icon {
+    width: 30px;
+    height: 30px;
+}
+h3{
+    margin-left: 20px;
+    margin-top: 8px;
+}
